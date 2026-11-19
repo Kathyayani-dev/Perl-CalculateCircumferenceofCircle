@@ -1,0 +1,12 @@
+# code for circum_circle
+...
+   $side = 4;
+ print "The side value for the square is :$side \n ";
+
+ #Understand the area formula of a square
+
+ # $area = ($side ** 2);
+   $area = ($side * $side);
+
+ print "The area of the square is : $area \n";
+...
